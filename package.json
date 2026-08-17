@@ -1,7 +1,7 @@
 {
   "name": "lukeskinplus",
-  "version": "1.0.0",
-  "description": "Skin switcher + custom wallpaper for DeepSeek Harness: curated palettes, and an upload-any-size background image with opacity/blur controls. Stores the image in IndexedDB (no 2MB limit) so large photos just work.",
+  "version": "2.0.0",
+  "description": "Skin switcher + custom wallpaper + adjustable glass transparency and fonts for DeepSeek Harness: curated palettes, an upload-any-size background image with opacity/blur controls, interface/dialog/border/composer transparency sliders (with the desktop app's transparent-window + WCO patch, the real desktop wallpaper shows through), global UI scale, separate thinking/answer text sizes, custom text colors, and one-click theme presets.",
   "license": "MIT",
   "author": "Luke",
   "repository": {
@@ -20,6 +20,9 @@
     "theme",
     "skin",
     "wallpaper",
+    "transparency",
+    "glass",
+    "font",
     "web-ui"
   ],
   "type": "module",
